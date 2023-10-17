@@ -1,0 +1,18 @@
+/* Specific styles for the about section */
+.about-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.left-about {
+    width: 50%;
+    padding: 20px;
+}
+
+.right-about {
+    width: 50%;
+    padding: 20px;
+}
+
+/* Add more specific styles for the about section here */

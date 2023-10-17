@@ -1,0 +1,7 @@
+/* Specific styles for the home section */
+.header {
+    background-image: url('background.jpg');
+    background-size: cover;
+}
+
+/* Add more specific styles for the home section here */
